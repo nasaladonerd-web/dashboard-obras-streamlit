@@ -1,5 +1,7 @@
 # Dashboard de Obras (Streamlit)
 
+> 🚧 **Em construção:** este projeto está sendo desenvolvido aos poucos, com entregas incrementais.
+
 ## Problema
 Dificuldade de acompanhar avanço físico-financeiro e desvios de cronograma em uma visão única e atualizada.
 
