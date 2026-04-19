@@ -24,8 +24,6 @@ Aplicação em Streamlit com indicadores de obra, curva S, filtros por período 
 
 ![Preview da execução](assets/preview.svg)
 
-> Substitua depois por GIF real da execução (ex.: assets/demo.gif) assim que a primeira versão funcional estiver pronta.
-
 ## Status
 
 Em evolução
@@ -37,7 +35,7 @@ Em evolução
 - [ ] Publicar GIF de execução no README
 - [ ] Criar seção de lições aprendidas
 
-## Como executar (placeholder)
+## Como executar
 
 ```bash
 # em breve
