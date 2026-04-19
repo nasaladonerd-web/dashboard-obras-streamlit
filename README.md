@@ -22,7 +22,7 @@ Aplicação em Streamlit com indicadores de obra, curva S, filtros por período 
 > Substitua depois por GIF real da execução (ex.: assets/demo.gif) assim que a primeira versão funcional estiver pronta.
 
 ## Status
-**Em construção (entregas incrementais semanais)**
+**Em evolução**
 
 ## Roadmap curto
 - [ ] Implementar versão mínima funcional (MVP)
@@ -34,3 +34,8 @@ Aplicação em Streamlit com indicadores de obra, curva S, filtros por período 
 ```bash
 # em breve
 ```
+
+## Próxima entrega da semana
+- [ ] Subir primeira tela com indicadores principais (planejado x realizado)
+- [ ] Adicionar filtro por período e frente de serviço
+- [ ] Publicar captura de tela da interface inicial
